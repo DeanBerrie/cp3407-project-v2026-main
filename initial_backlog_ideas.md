@@ -2,6 +2,10 @@
 
 ## User story title: e.g. Show current deals
 Keep any other version here as well, e.g. Display current deals, Let user to click on "show-current-deals".
+user can search and browse through possible menu/grocery choices
+user can hover over items to see ingredients
+Let users rate quality of food. eg. 1 - 5 stars
+Users can search for items and sort by metrics eg. alphabetical, price, sales etc.
 
 ## Priority: 10 (e.g. latest for iteration-1)
 Any notes on priority go here. 
